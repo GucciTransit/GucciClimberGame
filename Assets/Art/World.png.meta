@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 007d6f307fbdd72429370fe16e815bf0
+timeCreated: 1473758274
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: World-clip
+    21300002: Ground1
+    21300004: Ground2
+    21300006: Ground3
+    21300008: Ground4
+    21300010: Ground5
+    21300012: Ground6
+    21300014: Ground7
+    21300016: World_1
+    21300018: World_2
+    21300020: World_3
+    21300022: tree
+    21300024: grass 1
+    21300026: Grass2
+    21300028: ground4
+    21300030: ground7
+    21300032: Ground8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 512
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: World_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 220
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: World_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 251
+        width: 116
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: World_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 250
+        width: 173
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tree
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 304
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: grass 1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 320
+        width: 50
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grass2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 342
+        width: 161
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground4
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 342
+        width: 15
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground5
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 344
+        width: 30
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground6
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 343
+        width: 16
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground7
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 342
+        width: 14
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ground8
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 342
+        width: 13
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
